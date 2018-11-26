@@ -1,6 +1,8 @@
 site_name: System-Modernization.org
 theme:
   material
+use_directory_urls: false
+
 nav:
   - Home: index.md
   - Roadmap: 
