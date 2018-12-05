@@ -1,3 +1,0 @@
-# Tool One
-
-## Code Assessment
