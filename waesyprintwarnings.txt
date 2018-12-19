@@ -1,0 +1,1752 @@
+C:\Users\echas>python -m weasyprint http://weasyprint.org weasyprint.pdf
+WARNING: Failed to load local font "Rosario Italic"
+WARNING: Failed to load local font "Rosario-Italic"
+WARNING: Failed to load local font "Rosario"
+WARNING: Failed to load local font "Rosario-Regular"
+WARNING: Failed to load local font "Rosario Bold"
+WARNING: Failed to load local font "Rosario-Bold"
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:1211.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:1388.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:1565.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:1666.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:1767.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:1829.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:1892.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:2099.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:2307.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:2368.
+WARNING: Ignored `transition:background-position .2s ease-out,color .2s ease-in-out` at 1:2644, unknown property.
+WARNING: Ignored `transition-delay:.05s,.1s` at 1:2710, unknown property.
+WARNING: Ignored `width:100vw` at 1:3320, invalid value.
+WARNING: Ignored `transition:border-color .3s ease-in-out,color .3s ease-in-out` at 1:3798, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:3860.
+WARNING: Ignored `transition:background-color .3s ease,border-bottom-color .15s ease,border-left-color .15s ease .15s,border-right-color .15s ease .45s,border-top-color .15s ease .3s,transform .6s ease` at 1:4430, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:5091.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:6117.
+WARNING: Ignored `overflow-x:hidden` at 1:6244, unknown property.
+WARNING: Ignored `transition:color .25s` at 1:6747, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:6953.
+WARNING: Ignored `width:-moz-min-content` at 1:7184, invalid value.
+WARNING: Ignored `width:-webkit-min-content` at 1:7207, invalid value.
+WARNING: Ignored `width:min-content` at 1:7233, invalid value.
+WARNING: Ignored `min-height:60vh` at 1:7604, invalid value.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:7973.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:8863.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:9060.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:9245.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:9568.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:9925.
+WARNING: Ignored `box-shadow:0 0 0 .01em #1ee494` at 1:10234, unknown property.
+WARNING: Ignored `transition:background-color .3s cubic-bezier(.56, .09, .37, 2),box-shadow .3s cubic-bezier(.56, .09, .37, 2)` at 1:10371, unknown property.
+WARNING: Ignored `box-shadow:0 0 0 .65em #19d489` at 1:10694, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:10829.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:10932.
+WARNING: Ignored `transition:color .75s` at 1:11106, unknown property.
+WARNING: Ignored `background-position-y:0` at 1:11518, unknown property.
+WARNING: Ignored `transition:background-position .75s ease` at 1:11567, unknown property.
+WARNING: Ignored `left:calc(-.8em - .35em / 2)` at 1:11733, invalid value.
+WARNING: Ignored `transition:border-bottom-color .15s ease,border-left-color .15s ease .15s,border-right-color .15s ease .45s,border-top-color .15s ease .3s,transform .6s ease` at 1:11762, unknown property.
+WARNING: Ignored `background-position-y:100%` at 1:12058, unknown property.
+WARNING: Ignored `max-width:calc(100% + 45px * 2 + 2px)` at 1:12310, invalid value.
+WARNING: Ignored `box-shadow:0 1px 0` at 1:12437, unknown property.
+WARNING: Ignored `-webkit-column-break-inside:avoid` at 1:12719, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:13799.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:14245.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:14337.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:15007.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:15118.
+WARNING: Ignored `cursor:pointer` at 1:15428, the property does not apply for the print media.
+WARNING: Ignored `transition:opacity .4s` at 1:15507, unknown property.
+WARNING: Ignored `cursor:pointer` at 1:15626, the property does not apply for the print media.
+WARNING: Ignored `transition:color .2s ease .2s,height .25s ease,padding .25s ease` at 1:15666, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:16287.
+WARNING: Ignored `cursor:pointer` at 1:16496, the property does not apply for the print media.
+WARNING: Ignored `transition:background-color .25s ease,left .25s ease .05s,padding .25s ease,right .25s ease,transform .2s ease` at 1:17060, unknown property.
+WARNING: Ignored `box-shadow:0 5px 5px 0 rgba(111,122,137,0.3)` at 1:17518, unknown property.
+WARNING: Ignored `box-shadow:0 0 0 0 #e2e4e8` at 1:17622, unknown property.
+WARNING: Ignored `transition:box-shadow .2s ease,opacity .2s ease` at 1:17714, unknown property.
+WARNING: Ignored `animation:switch-fade-in 1s ease 1s both,color-fade-to-primary .25s ease 2.25s both` at 1:17817, unknown property.
+WARNING: Ignored `background-position-x:0` at 1:18065, unknown property.
+WARNING: Ignored `animation:opacity-fade-in 1s ease 1.6s both` at 1:18295, unknown property.
+WARNING: Ignored `animation:opacity-fade-in .25s ease-in-out 1.85s both` at 1:18488, unknown property.
+WARNING: Ignored `box-shadow:0 5px 5px 0 rgba(111,122,137,0.1)` at 1:18567, unknown property.
+WARNING: Ignored `transition:box-shadow .2s,transform .2s ease` at 1:18612, unknown property.
+WARNING: Ignored `animation:opacity-fade-in .25s ease-in-out 2s both` at 1:18730, unknown property.
+WARNING: Ignored `transition:background-color .25s ease,left .25s ease,padding .25s ease,right .25s ease .05s,transform .2s ease` at 1:18883, unknown property.
+WARNING: Ignored `animation:color-fade-to-grey .25s ease 2.25s both` at 1:19059, unknown property.
+WARNING: Ignored `background-position-x:0` at 1:19402, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:19471.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:19579.
+WARNING: Ignored `transition:background-position .25s ease,opacity .25s ease` at 1:20050, unknown property.
+WARNING: Ignored `transition:opacity .25s ease,top .25s ease` at 1:20728, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:20771.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:20964.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:21188.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:21863.
+WARNING: Ignored `animation:vertical-page-border-fade-in 1.5s ease both 2s` at 1:22205, unknown property.
+WARNING: Ignored `animation:color-fade-to-light .5s ease both` at 1:22312, unknown property.
+WARNING: Ignored `animation-delay:2575ms` at 1:22421, unknown property.
+WARNING: Ignored `animation-delay:2650ms` at 1:22509, unknown property.
+WARNING: Ignored `animation-delay:2725ms` at 1:22597, unknown property.
+WARNING: Ignored `animation-delay:2800ms` at 1:22685, unknown property.
+WARNING: Ignored `animation-delay:2875ms` at 1:22773, unknown property.
+WARNING: Ignored `animation-delay:2950ms` at 1:22861, unknown property.
+WARNING: Ignored `animation:color-fade-to-action .5s ease both 4.5s` at 1:22945, unknown property.
+WARNING: Ignored `animation-delay:4.5s,6.5s` at 1:23058, unknown property.
+WARNING: Ignored `animation:color-fade-to-light .5s ease both 2.5s` at 1:23145, unknown property.
+WARNING: Ignored `animation:opacity-fade-in .75s ease both 2.5s` at 1:23264, unknown property.
+WARNING: Ignored `animation:horizontal-page-border-fade-in 1s ease both 1s` at 1:23403, unknown property.
+WARNING: Ignored `animation:header-height-fade-in .5s ease-in both 3s` at 1:23528, unknown property.
+WARNING: Ignored `animation:color-fade-to-light .5s ease both 3s` at 1:23651, unknown property.
+WARNING: Ignored `animation:opacity-fade-in .75s ease both .25s` at 1:23777, unknown property.
+WARNING: Ignored `animation:color-fade-to-light .5s ease both 3s` at 1:23893, unknown property.
+WARNING: Ignored `animation:color-fade-to-action .5s ease both 3s` at 1:24017, unknown property.
+WARNING: Ignored `animation:opacity-fade-in .5s ease both 3.2s` at 1:24207, unknown property.
+WARNING: Ignored `animation:start-list-fade-in 1s ease both 3s` at 1:24323, unknown property.
+WARNING: Ignored `animation-delay:4.5s` at 1:24442, unknown property.
+WARNING: Ignored `animation-delay:5s` at 1:24656, unknown property.
+WARNING: Ignored `transition:border .2s ease` at 1:25156, unknown property.
+WARNING: Invalid or unsupported selector 'aside+aside:hover progress::-moz-progress-bar', Unknown pseudo-element: -moz-progress-bar
+WARNING: Invalid or unsupported selector 'aside+aside:hover progress::-webkit-progress-value', Unknown pseudo-element: -webkit-progress-value
+WARNING: Ignored `transition:margin-top .25s ease` at 1:25631, unknown property.
+WARNING: Invalid or unsupported selector 'aside+aside progress::-webkit-progress-bar', Unknown pseudo-element: -webkit-progress-bar
+WARNING: Ignored `transition:background-color .25s ease` at 1:26153, unknown property.
+WARNING: Invalid or unsupported selector 'aside+aside progress::-moz-progress-bar', Unknown pseudo-element: -moz-progress-bar
+WARNING: Ignored `transition:background-color .25s ease` at 1:26282, unknown property.
+WARNING: Invalid or unsupported selector 'aside+aside progress::-webkit-progress-value', Unknown pseudo-element: -webkit-progress-value
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 831px)
+WARNING: Invalid media type " screen and (min-width: 831px)" the whole @media rule was ignored at 1:26320.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 830px)
+WARNING: Invalid media type " screen and (max-width: 830px)" the whole @media rule was ignored at 1:26535.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:31661.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:32801.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:32929.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:33088.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:33189.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:34149.
+WARNING: Ignored `background-position-y:100%` at 1:34641, unknown property.
+WARNING: Ignored `transition:border-color .2s` at 1:34818, unknown property.
+WARNING: Ignored `vertical-align:center` at 1:34882, invalid value.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:35241.
+WARNING: Ignored `height:100vh` at 1:35373, invalid value.
+WARNING: Ignored `transition:height 500ms 500ms` at 1:35588, unknown property.
+WARNING: Ignored `transition:opacity 500ms 500ms` at 1:35794, unknown property.
+WARNING: Ignored `animation-duration:1s` at 1:35879, unknown property.
+WARNING: Ignored `animation-fill-mode:both` at 1:35901, unknown property.
+WARNING: Ignored `animation-name:start-list-fade-in` at 1:35926, unknown property.
+WARNING: Ignored `animation-timing-function:ease` at 1:35960, unknown property.
+WARNING: Ignored `animation:typing 2000ms steps(35, end) 500ms both,cursor 2000ms step-end infinite 3000ms` at 1:36057, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 831px)
+WARNING: Invalid media type " screen and (min-width: 831px)" the whole @media rule was ignored at 1:36146.
+
+C:\Users\echas>
+
+C:\Users\echas>pip install mkdocs-material
+Requirement already satisfied: mkdocs-material in d:\python37\lib\site-packages (3.1.0)
+Requirement already satisfied: mkdocs>=1 in d:\python37\lib\site-packages (from mkdocs-material) (1.0.4)
+Requirement already satisfied: pymdown-extensions>=4.11 in d:\python37\lib\site-packages (from mkdocs-material) (6.0)
+Requirement already satisfied: Pygments>=2.2 in d:\python37\lib\site-packages (from mkdocs-material) (2.3.0)
+Requirement already satisfied: PyYAML>=3.10 in d:\python37\lib\site-packages (from mkdocs>=1->mkdocs-material) (3.13)
+Requirement already satisfied: tornado>=5.0 in d:\python37\lib\site-packages (from mkdocs>=1->mkdocs-material) (5.1.1)
+Requirement already satisfied: Markdown>=2.3.1 in d:\python37\lib\site-packages (from mkdocs>=1->mkdocs-material) (3.0.1)
+Requirement already satisfied: click>=3.3 in d:\python37\lib\site-packages (from mkdocs>=1->mkdocs-material) (7.0)
+Requirement already satisfied: livereload>=2.5.1 in d:\python37\lib\site-packages (from mkdocs>=1->mkdocs-material) (2.6.0)
+Requirement already satisfied: Jinja2>=2.7.1 in d:\python37\lib\site-packages (from mkdocs>=1->mkdocs-material) (2.10)
+Requirement already satisfied: six in d:\python37\lib\site-packages (from livereload>=2.5.1->mkdocs>=1->mkdocs-material) (1.11.0)
+Requirement already satisfied: MarkupSafe>=0.23 in d:\python37\lib\site-packages (from Jinja2>=2.7.1->mkdocs>=1->mkdocs-material) (1.1.0)
+
+C:\Users\echas>mkserver
+'mkserver' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\echas>mkdocs serve
+INFO    -  Building documentation...
+
+Config file 'C:\Users\echas\mkdocs.yml' does not exist.
+
+C:\Users\echas>python -m weasyprint http://weasyprint.org weasyprint.pdf
+WARNING: Failed to load local font "Rosario Italic"
+WARNING: Failed to load local font "Rosario-Italic"
+WARNING: Failed to load local font "Rosario"
+WARNING: Failed to load local font "Rosario-Regular"
+WARNING: Failed to load local font "Rosario Bold"
+WARNING: Failed to load local font "Rosario-Bold"
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:1211.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:1388.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:1565.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:1666.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:1767.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:1829.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:1892.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:2099.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:2307.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:2368.
+WARNING: Ignored `transition:background-position .2s ease-out,color .2s ease-in-out` at 1:2644, unknown property.
+WARNING: Ignored `transition-delay:.05s,.1s` at 1:2710, unknown property.
+WARNING: Ignored `width:100vw` at 1:3320, invalid value.
+WARNING: Ignored `transition:border-color .3s ease-in-out,color .3s ease-in-out` at 1:3798, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:3860.
+WARNING: Ignored `transition:background-color .3s ease,border-bottom-color .15s ease,border-left-color .15s ease .15s,border-right-color .15s ease .45s,border-top-color .15s ease .3s,transform .6s ease` at 1:4430, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:5091.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:6117.
+WARNING: Ignored `overflow-x:hidden` at 1:6244, unknown property.
+WARNING: Ignored `transition:color .25s` at 1:6747, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:6953.
+WARNING: Ignored `width:-moz-min-content` at 1:7184, invalid value.
+WARNING: Ignored `width:-webkit-min-content` at 1:7207, invalid value.
+WARNING: Ignored `width:min-content` at 1:7233, invalid value.
+WARNING: Ignored `min-height:60vh` at 1:7604, invalid value.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:7973.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:8863.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:9060.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:9245.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:9568.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:9925.
+WARNING: Ignored `box-shadow:0 0 0 .01em #1ee494` at 1:10234, unknown property.
+WARNING: Ignored `transition:background-color .3s cubic-bezier(.56, .09, .37, 2),box-shadow .3s cubic-bezier(.56, .09, .37, 2)` at 1:10371, unknown property.
+WARNING: Ignored `box-shadow:0 0 0 .65em #19d489` at 1:10694, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:10829.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:10932.
+WARNING: Ignored `transition:color .75s` at 1:11106, unknown property.
+WARNING: Ignored `background-position-y:0` at 1:11518, unknown property.
+WARNING: Ignored `transition:background-position .75s ease` at 1:11567, unknown property.
+WARNING: Ignored `left:calc(-.8em - .35em / 2)` at 1:11733, invalid value.
+WARNING: Ignored `transition:border-bottom-color .15s ease,border-left-color .15s ease .15s,border-right-color .15s ease .45s,border-top-color .15s ease .3s,transform .6s ease` at 1:11762, unknown property.
+WARNING: Ignored `background-position-y:100%` at 1:12058, unknown property.
+WARNING: Ignored `max-width:calc(100% + 45px * 2 + 2px)` at 1:12310, invalid value.
+WARNING: Ignored `box-shadow:0 1px 0` at 1:12437, unknown property.
+WARNING: Ignored `-webkit-column-break-inside:avoid` at 1:12719, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:13799.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:14245.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:14337.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:15007.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:15118.
+WARNING: Ignored `cursor:pointer` at 1:15428, the property does not apply for the print media.
+WARNING: Ignored `transition:opacity .4s` at 1:15507, unknown property.
+WARNING: Ignored `cursor:pointer` at 1:15626, the property does not apply for the print media.
+WARNING: Ignored `transition:color .2s ease .2s,height .25s ease,padding .25s ease` at 1:15666, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:16287.
+WARNING: Ignored `cursor:pointer` at 1:16496, the property does not apply for the print media.
+WARNING: Ignored `transition:background-color .25s ease,left .25s ease .05s,padding .25s ease,right .25s ease,transform .2s ease` at 1:17060, unknown property.
+WARNING: Ignored `box-shadow:0 5px 5px 0 rgba(111,122,137,0.3)` at 1:17518, unknown property.
+WARNING: Ignored `box-shadow:0 0 0 0 #e2e4e8` at 1:17622, unknown property.
+WARNING: Ignored `transition:box-shadow .2s ease,opacity .2s ease` at 1:17714, unknown property.
+WARNING: Ignored `animation:switch-fade-in 1s ease 1s both,color-fade-to-primary .25s ease 2.25s both` at 1:17817, unknown property.
+WARNING: Ignored `background-position-x:0` at 1:18065, unknown property.
+WARNING: Ignored `animation:opacity-fade-in 1s ease 1.6s both` at 1:18295, unknown property.
+WARNING: Ignored `animation:opacity-fade-in .25s ease-in-out 1.85s both` at 1:18488, unknown property.
+WARNING: Ignored `box-shadow:0 5px 5px 0 rgba(111,122,137,0.1)` at 1:18567, unknown property.
+WARNING: Ignored `transition:box-shadow .2s,transform .2s ease` at 1:18612, unknown property.
+WARNING: Ignored `animation:opacity-fade-in .25s ease-in-out 2s both` at 1:18730, unknown property.
+WARNING: Ignored `transition:background-color .25s ease,left .25s ease,padding .25s ease,right .25s ease .05s,transform .2s ease` at 1:18883, unknown property.
+WARNING: Ignored `animation:color-fade-to-grey .25s ease 2.25s both` at 1:19059, unknown property.
+WARNING: Ignored `background-position-x:0` at 1:19402, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:19471.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:19579.
+WARNING: Ignored `transition:background-position .25s ease,opacity .25s ease` at 1:20050, unknown property.
+WARNING: Ignored `transition:opacity .25s ease,top .25s ease` at 1:20728, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:20771.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:20964.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:21188.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:21863.
+WARNING: Ignored `animation:vertical-page-border-fade-in 1.5s ease both 2s` at 1:22205, unknown property.
+WARNING: Ignored `animation:color-fade-to-light .5s ease both` at 1:22312, unknown property.
+WARNING: Ignored `animation-delay:2575ms` at 1:22421, unknown property.
+WARNING: Ignored `animation-delay:2650ms` at 1:22509, unknown property.
+WARNING: Ignored `animation-delay:2725ms` at 1:22597, unknown property.
+WARNING: Ignored `animation-delay:2800ms` at 1:22685, unknown property.
+WARNING: Ignored `animation-delay:2875ms` at 1:22773, unknown property.
+WARNING: Ignored `animation-delay:2950ms` at 1:22861, unknown property.
+WARNING: Ignored `animation:color-fade-to-action .5s ease both 4.5s` at 1:22945, unknown property.
+WARNING: Ignored `animation-delay:4.5s,6.5s` at 1:23058, unknown property.
+WARNING: Ignored `animation:color-fade-to-light .5s ease both 2.5s` at 1:23145, unknown property.
+WARNING: Ignored `animation:opacity-fade-in .75s ease both 2.5s` at 1:23264, unknown property.
+WARNING: Ignored `animation:horizontal-page-border-fade-in 1s ease both 1s` at 1:23403, unknown property.
+WARNING: Ignored `animation:header-height-fade-in .5s ease-in both 3s` at 1:23528, unknown property.
+WARNING: Ignored `animation:color-fade-to-light .5s ease both 3s` at 1:23651, unknown property.
+WARNING: Ignored `animation:opacity-fade-in .75s ease both .25s` at 1:23777, unknown property.
+WARNING: Ignored `animation:color-fade-to-light .5s ease both 3s` at 1:23893, unknown property.
+WARNING: Ignored `animation:color-fade-to-action .5s ease both 3s` at 1:24017, unknown property.
+WARNING: Ignored `animation:opacity-fade-in .5s ease both 3.2s` at 1:24207, unknown property.
+WARNING: Ignored `animation:start-list-fade-in 1s ease both 3s` at 1:24323, unknown property.
+WARNING: Ignored `animation-delay:4.5s` at 1:24442, unknown property.
+WARNING: Ignored `animation-delay:5s` at 1:24656, unknown property.
+WARNING: Ignored `transition:border .2s ease` at 1:25156, unknown property.
+WARNING: Invalid or unsupported selector 'aside+aside:hover progress::-moz-progress-bar', Unknown pseudo-element: -moz-progress-bar
+WARNING: Invalid or unsupported selector 'aside+aside:hover progress::-webkit-progress-value', Unknown pseudo-element: -webkit-progress-value
+WARNING: Ignored `transition:margin-top .25s ease` at 1:25631, unknown property.
+WARNING: Invalid or unsupported selector 'aside+aside progress::-webkit-progress-bar', Unknown pseudo-element: -webkit-progress-bar
+WARNING: Ignored `transition:background-color .25s ease` at 1:26153, unknown property.
+WARNING: Invalid or unsupported selector 'aside+aside progress::-moz-progress-bar', Unknown pseudo-element: -moz-progress-bar
+WARNING: Ignored `transition:background-color .25s ease` at 1:26282, unknown property.
+WARNING: Invalid or unsupported selector 'aside+aside progress::-webkit-progress-value', Unknown pseudo-element: -webkit-progress-value
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 831px)
+WARNING: Invalid media type " screen and (min-width: 831px)" the whole @media rule was ignored at 1:26320.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 830px)
+WARNING: Invalid media type " screen and (max-width: 830px)" the whole @media rule was ignored at 1:26535.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:31661.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:32801.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:32929.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:33088.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:33189.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:34149.
+WARNING: Ignored `background-position-y:100%` at 1:34641, unknown property.
+WARNING: Ignored `transition:border-color .2s` at 1:34818, unknown property.
+WARNING: Ignored `vertical-align:center` at 1:34882, invalid value.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:35241.
+WARNING: Ignored `height:100vh` at 1:35373, invalid value.
+WARNING: Ignored `transition:height 500ms 500ms` at 1:35588, unknown property.
+WARNING: Ignored `transition:opacity 500ms 500ms` at 1:35794, unknown property.
+WARNING: Ignored `animation-duration:1s` at 1:35879, unknown property.
+WARNING: Ignored `animation-fill-mode:both` at 1:35901, unknown property.
+WARNING: Ignored `animation-name:start-list-fade-in` at 1:35926, unknown property.
+WARNING: Ignored `animation-timing-function:ease` at 1:35960, unknown property.
+WARNING: Ignored `animation:typing 2000ms steps(35, end) 500ms both,cursor 2000ms step-end infinite 3000ms` at 1:36057, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 831px)
+WARNING: Invalid media type " screen and (min-width: 831px)" the whole @media rule was ignored at 1:36146.
+
+C:\Users\echas>
+
+C:\Users\echas>
+
+C:\Users\echas>pip install weasyprint==43
+Requirement already satisfied: weasyprint==43 in d:\python37\lib\site-packages (43)
+Requirement already satisfied: Pyphen>=0.8 in d:\python37\lib\site-packages (from weasyprint==43) (0.9.5)
+Requirement already satisfied: tinycss2>=0.5 in d:\python37\lib\site-packages (from weasyprint==43) (0.6.1)
+Requirement already satisfied: cairocffi>=0.9.0 in d:\python37\lib\site-packages (from weasyprint==43) (0.9.0)
+Requirement already satisfied: cffi>=0.6 in d:\python37\lib\site-packages (from weasyprint==43) (1.11.5)
+Requirement already satisfied: html5lib>=0.999999999 in d:\python37\lib\site-packages (from weasyprint==43) (1.0.1)
+Requirement already satisfied: CairoSVG>=1.0.20 in d:\python37\lib\site-packages (from weasyprint==43) (2.2.1)
+Requirement already satisfied: cssselect2>=0.1 in d:\python37\lib\site-packages (from weasyprint==43) (0.2.1)
+Requirement already satisfied: webencodings>=0.4 in d:\python37\lib\site-packages (from tinycss2>=0.5->weasyprint==43) (0.5.1)
+Requirement already satisfied: pycparser in d:\python37\lib\site-packages (from cffi>=0.6->weasyprint==43) (2.19)
+Requirement already satisfied: six>=1.9 in d:\python37\lib\site-packages (from html5lib>=0.999999999->weasyprint==43) (1.11.0)
+Requirement already satisfied: defusedxml in d:\python37\lib\site-packages (from CairoSVG>=1.0.20->weasyprint==43) (0.5.0)
+Requirement already satisfied: pillow in d:\python37\lib\site-packages (from CairoSVG>=1.0.20->weasyprint==43) (5.3.0)
+
+C:\Users\echas>pip install weasyprint==43rc2
+Collecting weasyprint==43rc2
+  Downloading https://files.pythonhosted.org/packages/f7/d8/7f127d416520681d3aec438c9d7c27f1e316ccf876ce9a3a6775f746c0bd/WeasyPrint-43rc2-py3-none-any.whl (349kB)
+    100% |████████████████████████████████| 358kB 3.3MB/s
+Requirement already satisfied: cffi>=0.6 in d:\python37\lib\site-packages (from weasyprint==43rc2) (1.11.5)
+Requirement already satisfied: html5lib>=0.999999999 in d:\python37\lib\site-packages (from weasyprint==43rc2) (1.0.1)
+Requirement already satisfied: CairoSVG>=1.0.20 in d:\python37\lib\site-packages (from weasyprint==43rc2) (2.2.1)
+Requirement already satisfied: Pyphen>=0.8 in d:\python37\lib\site-packages (from weasyprint==43rc2) (0.9.5)
+Requirement already satisfied: cssselect2>=0.1 in d:\python37\lib\site-packages (from weasyprint==43rc2) (0.2.1)
+Requirement already satisfied: cairocffi>=0.9.0 in d:\python37\lib\site-packages (from weasyprint==43rc2) (0.9.0)
+Requirement already satisfied: tinycss2>=0.5 in d:\python37\lib\site-packages (from weasyprint==43rc2) (0.6.1)
+Requirement already satisfied: pycparser in d:\python37\lib\site-packages (from cffi>=0.6->weasyprint==43rc2) (2.19)
+Requirement already satisfied: webencodings in d:\python37\lib\site-packages (from html5lib>=0.999999999->weasyprint==43rc2) (0.5.1)
+Requirement already satisfied: six>=1.9 in d:\python37\lib\site-packages (from html5lib>=0.999999999->weasyprint==43rc2) (1.11.0)
+Requirement already satisfied: pillow in d:\python37\lib\site-packages (from CairoSVG>=1.0.20->weasyprint==43rc2) (5.3.0)
+Requirement already satisfied: defusedxml in d:\python37\lib\site-packages (from CairoSVG>=1.0.20->weasyprint==43rc2) (0.5.0)
+Installing collected packages: weasyprint
+  Found existing installation: WeasyPrint 43
+    Uninstalling WeasyPrint-43:
+      Successfully uninstalled WeasyPrint-43
+Successfully installed weasyprint-43rc2
+
+C:\Users\echas>python -m weasyprint http://weasyprint.org weasyprint.pdf
+WARNING: Failed to load local font "Rosario Italic"
+WARNING: Failed to load local font "Rosario-Italic"
+WARNING: Failed to load local font "Rosario"
+WARNING: Failed to load local font "Rosario-Regular"
+WARNING: Failed to load local font "Rosario Bold"
+WARNING: Failed to load local font "Rosario-Bold"
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:1211.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:1388.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:1565.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:1666.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:1767.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:1829.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:1892.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:2099.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:2307.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:2368.
+WARNING: Ignored `transition:background-position .2s ease-out,color .2s ease-in-out` at 1:2644, unknown property.
+WARNING: Ignored `transition-delay:.05s,.1s` at 1:2710, unknown property.
+WARNING: Ignored `width:100vw` at 1:3320, invalid value.
+WARNING: Ignored `transition:border-color .3s ease-in-out,color .3s ease-in-out` at 1:3798, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:3860.
+WARNING: Ignored `transition:background-color .3s ease,border-bottom-color .15s ease,border-left-color .15s ease .15s,border-right-color .15s ease .45s,border-top-color .15s ease .3s,transform .6s ease` at 1:4430, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:5091.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:6117.
+WARNING: Ignored `overflow-x:hidden` at 1:6244, unknown property.
+WARNING: Ignored `transition:color .25s` at 1:6747, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:6953.
+WARNING: Ignored `width:-moz-min-content` at 1:7184, invalid value.
+WARNING: Ignored `width:-webkit-min-content` at 1:7207, invalid value.
+WARNING: Ignored `width:min-content` at 1:7233, invalid value.
+WARNING: Ignored `min-height:60vh` at 1:7604, invalid value.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:7973.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:8863.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:9060.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:9245.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:9568.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:9925.
+WARNING: Ignored `box-shadow:0 0 0 .01em #1ee494` at 1:10234, unknown property.
+WARNING: Ignored `transition:background-color .3s cubic-bezier(.56, .09, .37, 2),box-shadow .3s cubic-bezier(.56, .09, .37, 2)` at 1:10371, unknown property.
+WARNING: Ignored `box-shadow:0 0 0 .65em #19d489` at 1:10694, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:10829.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:10932.
+WARNING: Ignored `transition:color .75s` at 1:11106, unknown property.
+WARNING: Ignored `background-position-y:0` at 1:11518, unknown property.
+WARNING: Ignored `transition:background-position .75s ease` at 1:11567, unknown property.
+WARNING: Ignored `left:calc(-.8em - .35em / 2)` at 1:11733, invalid value.
+WARNING: Ignored `transition:border-bottom-color .15s ease,border-left-color .15s ease .15s,border-right-color .15s ease .45s,border-top-color .15s ease .3s,transform .6s ease` at 1:11762, unknown property.
+WARNING: Ignored `background-position-y:100%` at 1:12058, unknown property.
+WARNING: Ignored `max-width:calc(100% + 45px * 2 + 2px)` at 1:12310, invalid value.
+WARNING: Ignored `box-shadow:0 1px 0` at 1:12437, unknown property.
+WARNING: Ignored `-webkit-column-break-inside:avoid` at 1:12719, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:13799.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:14245.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:14337.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:15007.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:15118.
+WARNING: Ignored `cursor:pointer` at 1:15428, the property does not apply for the print media.
+WARNING: Ignored `transition:opacity .4s` at 1:15507, unknown property.
+WARNING: Ignored `cursor:pointer` at 1:15626, the property does not apply for the print media.
+WARNING: Ignored `transition:color .2s ease .2s,height .25s ease,padding .25s ease` at 1:15666, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:16287.
+WARNING: Ignored `cursor:pointer` at 1:16496, the property does not apply for the print media.
+WARNING: Ignored `transition:background-color .25s ease,left .25s ease .05s,padding .25s ease,right .25s ease,transform .2s ease` at 1:17060, unknown property.
+WARNING: Ignored `box-shadow:0 5px 5px 0 rgba(111,122,137,0.3)` at 1:17518, unknown property.
+WARNING: Ignored `box-shadow:0 0 0 0 #e2e4e8` at 1:17622, unknown property.
+WARNING: Ignored `transition:box-shadow .2s ease,opacity .2s ease` at 1:17714, unknown property.
+WARNING: Ignored `animation:switch-fade-in 1s ease 1s both,color-fade-to-primary .25s ease 2.25s both` at 1:17817, unknown property.
+WARNING: Ignored `background-position-x:0` at 1:18065, unknown property.
+WARNING: Ignored `animation:opacity-fade-in 1s ease 1.6s both` at 1:18295, unknown property.
+WARNING: Ignored `animation:opacity-fade-in .25s ease-in-out 1.85s both` at 1:18488, unknown property.
+WARNING: Ignored `box-shadow:0 5px 5px 0 rgba(111,122,137,0.1)` at 1:18567, unknown property.
+WARNING: Ignored `transition:box-shadow .2s,transform .2s ease` at 1:18612, unknown property.
+WARNING: Ignored `animation:opacity-fade-in .25s ease-in-out 2s both` at 1:18730, unknown property.
+WARNING: Ignored `transition:background-color .25s ease,left .25s ease,padding .25s ease,right .25s ease .05s,transform .2s ease` at 1:18883, unknown property.
+WARNING: Ignored `animation:color-fade-to-grey .25s ease 2.25s both` at 1:19059, unknown property.
+WARNING: Ignored `background-position-x:0` at 1:19402, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:19471.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:19579.
+WARNING: Ignored `transition:background-position .25s ease,opacity .25s ease` at 1:20050, unknown property.
+WARNING: Ignored `transition:opacity .25s ease,top .25s ease` at 1:20728, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:20771.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:20964.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:21188.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:21863.
+WARNING: Ignored `animation:vertical-page-border-fade-in 1.5s ease both 2s` at 1:22205, unknown property.
+WARNING: Ignored `animation:color-fade-to-light .5s ease both` at 1:22312, unknown property.
+WARNING: Ignored `animation-delay:2575ms` at 1:22421, unknown property.
+WARNING: Ignored `animation-delay:2650ms` at 1:22509, unknown property.
+WARNING: Ignored `animation-delay:2725ms` at 1:22597, unknown property.
+WARNING: Ignored `animation-delay:2800ms` at 1:22685, unknown property.
+WARNING: Ignored `animation-delay:2875ms` at 1:22773, unknown property.
+WARNING: Ignored `animation-delay:2950ms` at 1:22861, unknown property.
+WARNING: Ignored `animation:color-fade-to-action .5s ease both 4.5s` at 1:22945, unknown property.
+WARNING: Ignored `animation-delay:4.5s,6.5s` at 1:23058, unknown property.
+WARNING: Ignored `animation:color-fade-to-light .5s ease both 2.5s` at 1:23145, unknown property.
+WARNING: Ignored `animation:opacity-fade-in .75s ease both 2.5s` at 1:23264, unknown property.
+WARNING: Ignored `animation:horizontal-page-border-fade-in 1s ease both 1s` at 1:23403, unknown property.
+WARNING: Ignored `animation:header-height-fade-in .5s ease-in both 3s` at 1:23528, unknown property.
+WARNING: Ignored `animation:color-fade-to-light .5s ease both 3s` at 1:23651, unknown property.
+WARNING: Ignored `animation:opacity-fade-in .75s ease both .25s` at 1:23777, unknown property.
+WARNING: Ignored `animation:color-fade-to-light .5s ease both 3s` at 1:23893, unknown property.
+WARNING: Ignored `animation:color-fade-to-action .5s ease both 3s` at 1:24017, unknown property.
+WARNING: Ignored `animation:opacity-fade-in .5s ease both 3.2s` at 1:24207, unknown property.
+WARNING: Ignored `animation:start-list-fade-in 1s ease both 3s` at 1:24323, unknown property.
+WARNING: Ignored `animation-delay:4.5s` at 1:24442, unknown property.
+WARNING: Ignored `animation-delay:5s` at 1:24656, unknown property.
+WARNING: Ignored `transition:border .2s ease` at 1:25156, unknown property.
+WARNING: Invalid or unsupported selector 'aside+aside:hover progress::-moz-progress-bar', Unknown pseudo-element: -moz-progress-bar
+WARNING: Invalid or unsupported selector 'aside+aside:hover progress::-webkit-progress-value', Unknown pseudo-element: -webkit-progress-value
+WARNING: Ignored `transition:margin-top .25s ease` at 1:25631, unknown property.
+WARNING: Invalid or unsupported selector 'aside+aside progress::-webkit-progress-bar', Unknown pseudo-element: -webkit-progress-bar
+WARNING: Ignored `transition:background-color .25s ease` at 1:26153, unknown property.
+WARNING: Invalid or unsupported selector 'aside+aside progress::-moz-progress-bar', Unknown pseudo-element: -moz-progress-bar
+WARNING: Ignored `transition:background-color .25s ease` at 1:26282, unknown property.
+WARNING: Invalid or unsupported selector 'aside+aside progress::-webkit-progress-value', Unknown pseudo-element: -webkit-progress-value
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 831px)
+WARNING: Invalid media type " screen and (min-width: 831px)" the whole @media rule was ignored at 1:26320.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 830px)
+WARNING: Invalid media type " screen and (max-width: 830px)" the whole @media rule was ignored at 1:26535.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:31661.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:32801.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:32929.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:33088.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:33189.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:34149.
+WARNING: Ignored `background-position-y:100%` at 1:34641, unknown property.
+WARNING: Ignored `transition:border-color .2s` at 1:34818, unknown property.
+WARNING: Ignored `vertical-align:center` at 1:34882, invalid value.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:35241.
+WARNING: Ignored `height:100vh` at 1:35373, invalid value.
+WARNING: Ignored `transition:height 500ms 500ms` at 1:35588, unknown property.
+WARNING: Ignored `transition:opacity 500ms 500ms` at 1:35794, unknown property.
+WARNING: Ignored `animation-duration:1s` at 1:35879, unknown property.
+WARNING: Ignored `animation-fill-mode:both` at 1:35901, unknown property.
+WARNING: Ignored `animation-name:start-list-fade-in` at 1:35926, unknown property.
+WARNING: Ignored `animation-timing-function:ease` at 1:35960, unknown property.
+WARNING: Ignored `animation:typing 2000ms steps(35, end) 500ms both,cursor 2000ms step-end infinite 3000ms` at 1:36057, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 831px)
+WARNING: Invalid media type " screen and (min-width: 831px)" the whole @media rule was ignored at 1:36146.
+
+C:\Users\echas>pip install weasyprint==43
+Collecting weasyprint==43
+  Using cached https://files.pythonhosted.org/packages/39/70/160b94a31be9151cbdf582206e3d8392c8ec11b1f430c4759e4c5a095f3f/WeasyPrint-43-py3-none-any.whl
+Requirement already satisfied: html5lib>=0.999999999 in d:\python37\lib\site-packages (from weasyprint==43) (1.0.1)
+Requirement already satisfied: Pyphen>=0.8 in d:\python37\lib\site-packages (from weasyprint==43) (0.9.5)
+Requirement already satisfied: CairoSVG>=1.0.20 in d:\python37\lib\site-packages (from weasyprint==43) (2.2.1)
+Requirement already satisfied: tinycss2>=0.5 in d:\python37\lib\site-packages (from weasyprint==43) (0.6.1)
+Requirement already satisfied: cssselect2>=0.1 in d:\python37\lib\site-packages (from weasyprint==43) (0.2.1)
+Requirement already satisfied: cffi>=0.6 in d:\python37\lib\site-packages (from weasyprint==43) (1.11.5)
+Requirement already satisfied: cairocffi>=0.9.0 in d:\python37\lib\site-packages (from weasyprint==43) (0.9.0)
+Requirement already satisfied: six>=1.9 in d:\python37\lib\site-packages (from html5lib>=0.999999999->weasyprint==43) (1.11.0)
+Requirement already satisfied: webencodings in d:\python37\lib\site-packages (from html5lib>=0.999999999->weasyprint==43) (0.5.1)
+Requirement already satisfied: defusedxml in d:\python37\lib\site-packages (from CairoSVG>=1.0.20->weasyprint==43) (0.5.0)
+Requirement already satisfied: pillow in d:\python37\lib\site-packages (from CairoSVG>=1.0.20->weasyprint==43) (5.3.0)
+Requirement already satisfied: pycparser in d:\python37\lib\site-packages (from cffi>=0.6->weasyprint==43) (2.19)
+Installing collected packages: weasyprint
+  Found existing installation: WeasyPrint 43rc2
+    Uninstalling WeasyPrint-43rc2:
+      Successfully uninstalled WeasyPrint-43rc2
+Successfully installed weasyprint-43
+
+C:\Users\echas>python -m weasyprint http://weasyprint.org weasyprint.pdf
+WARNING: Failed to load local font "Rosario Italic"
+WARNING: Failed to load local font "Rosario-Italic"
+WARNING: Failed to load local font "Rosario"
+WARNING: Failed to load local font "Rosario-Regular"
+WARNING: Failed to load local font "Rosario Bold"
+WARNING: Failed to load local font "Rosario-Bold"
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:1211.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:1388.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:1565.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:1666.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:1767.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:1829.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:1892.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:2099.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:2307.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:2368.
+WARNING: Ignored `transition:background-position .2s ease-out,color .2s ease-in-out` at 1:2644, unknown property.
+WARNING: Ignored `transition-delay:.05s,.1s` at 1:2710, unknown property.
+WARNING: Ignored `width:100vw` at 1:3320, invalid value.
+WARNING: Ignored `transition:border-color .3s ease-in-out,color .3s ease-in-out` at 1:3798, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:3860.
+WARNING: Ignored `transition:background-color .3s ease,border-bottom-color .15s ease,border-left-color .15s ease .15s,border-right-color .15s ease .45s,border-top-color .15s ease .3s,transform .6s ease` at 1:4430, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:5091.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:6117.
+WARNING: Ignored `overflow-x:hidden` at 1:6244, unknown property.
+WARNING: Ignored `transition:color .25s` at 1:6747, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:6953.
+WARNING: Ignored `width:-moz-min-content` at 1:7184, invalid value.
+WARNING: Ignored `width:-webkit-min-content` at 1:7207, invalid value.
+WARNING: Ignored `width:min-content` at 1:7233, invalid value.
+WARNING: Ignored `min-height:60vh` at 1:7604, invalid value.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:7973.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:8863.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:9060.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:9245.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:9568.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:9925.
+WARNING: Ignored `box-shadow:0 0 0 .01em #1ee494` at 1:10234, unknown property.
+WARNING: Ignored `transition:background-color .3s cubic-bezier(.56, .09, .37, 2),box-shadow .3s cubic-bezier(.56, .09, .37, 2)` at 1:10371, unknown property.
+WARNING: Ignored `box-shadow:0 0 0 .65em #19d489` at 1:10694, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:10829.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:10932.
+WARNING: Ignored `transition:color .75s` at 1:11106, unknown property.
+WARNING: Ignored `background-position-y:0` at 1:11518, unknown property.
+WARNING: Ignored `transition:background-position .75s ease` at 1:11567, unknown property.
+WARNING: Ignored `left:calc(-.8em - .35em / 2)` at 1:11733, invalid value.
+WARNING: Ignored `transition:border-bottom-color .15s ease,border-left-color .15s ease .15s,border-right-color .15s ease .45s,border-top-color .15s ease .3s,transform .6s ease` at 1:11762, unknown property.
+WARNING: Ignored `background-position-y:100%` at 1:12058, unknown property.
+WARNING: Ignored `max-width:calc(100% + 45px * 2 + 2px)` at 1:12310, invalid value.
+WARNING: Ignored `box-shadow:0 1px 0` at 1:12437, unknown property.
+WARNING: Ignored `-webkit-column-break-inside:avoid` at 1:12719, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:13799.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:14245.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:14337.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:15007.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:15118.
+WARNING: Ignored `cursor:pointer` at 1:15428, the property does not apply for the print media.
+WARNING: Ignored `transition:opacity .4s` at 1:15507, unknown property.
+WARNING: Ignored `cursor:pointer` at 1:15626, the property does not apply for the print media.
+WARNING: Ignored `transition:color .2s ease .2s,height .25s ease,padding .25s ease` at 1:15666, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:16287.
+WARNING: Ignored `cursor:pointer` at 1:16496, the property does not apply for the print media.
+WARNING: Ignored `transition:background-color .25s ease,left .25s ease .05s,padding .25s ease,right .25s ease,transform .2s ease` at 1:17060, unknown property.
+WARNING: Ignored `box-shadow:0 5px 5px 0 rgba(111,122,137,0.3)` at 1:17518, unknown property.
+WARNING: Ignored `box-shadow:0 0 0 0 #e2e4e8` at 1:17622, unknown property.
+WARNING: Ignored `transition:box-shadow .2s ease,opacity .2s ease` at 1:17714, unknown property.
+WARNING: Ignored `animation:switch-fade-in 1s ease 1s both,color-fade-to-primary .25s ease 2.25s both` at 1:17817, unknown property.
+WARNING: Ignored `background-position-x:0` at 1:18065, unknown property.
+WARNING: Ignored `animation:opacity-fade-in 1s ease 1.6s both` at 1:18295, unknown property.
+WARNING: Ignored `animation:opacity-fade-in .25s ease-in-out 1.85s both` at 1:18488, unknown property.
+WARNING: Ignored `box-shadow:0 5px 5px 0 rgba(111,122,137,0.1)` at 1:18567, unknown property.
+WARNING: Ignored `transition:box-shadow .2s,transform .2s ease` at 1:18612, unknown property.
+WARNING: Ignored `animation:opacity-fade-in .25s ease-in-out 2s both` at 1:18730, unknown property.
+WARNING: Ignored `transition:background-color .25s ease,left .25s ease,padding .25s ease,right .25s ease .05s,transform .2s ease` at 1:18883, unknown property.
+WARNING: Ignored `animation:color-fade-to-grey .25s ease 2.25s both` at 1:19059, unknown property.
+WARNING: Ignored `background-position-x:0` at 1:19402, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:19471.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:19579.
+WARNING: Ignored `transition:background-position .25s ease,opacity .25s ease` at 1:20050, unknown property.
+WARNING: Ignored `transition:opacity .25s ease,top .25s ease` at 1:20728, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:20771.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:20964.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:21188.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:21863.
+WARNING: Ignored `animation:vertical-page-border-fade-in 1.5s ease both 2s` at 1:22205, unknown property.
+WARNING: Ignored `animation:color-fade-to-light .5s ease both` at 1:22312, unknown property.
+WARNING: Ignored `animation-delay:2575ms` at 1:22421, unknown property.
+WARNING: Ignored `animation-delay:2650ms` at 1:22509, unknown property.
+WARNING: Ignored `animation-delay:2725ms` at 1:22597, unknown property.
+WARNING: Ignored `animation-delay:2800ms` at 1:22685, unknown property.
+WARNING: Ignored `animation-delay:2875ms` at 1:22773, unknown property.
+WARNING: Ignored `animation-delay:2950ms` at 1:22861, unknown property.
+WARNING: Ignored `animation:color-fade-to-action .5s ease both 4.5s` at 1:22945, unknown property.
+WARNING: Ignored `animation-delay:4.5s,6.5s` at 1:23058, unknown property.
+WARNING: Ignored `animation:color-fade-to-light .5s ease both 2.5s` at 1:23145, unknown property.
+WARNING: Ignored `animation:opacity-fade-in .75s ease both 2.5s` at 1:23264, unknown property.
+WARNING: Ignored `animation:horizontal-page-border-fade-in 1s ease both 1s` at 1:23403, unknown property.
+WARNING: Ignored `animation:header-height-fade-in .5s ease-in both 3s` at 1:23528, unknown property.
+WARNING: Ignored `animation:color-fade-to-light .5s ease both 3s` at 1:23651, unknown property.
+WARNING: Ignored `animation:opacity-fade-in .75s ease both .25s` at 1:23777, unknown property.
+WARNING: Ignored `animation:color-fade-to-light .5s ease both 3s` at 1:23893, unknown property.
+WARNING: Ignored `animation:color-fade-to-action .5s ease both 3s` at 1:24017, unknown property.
+WARNING: Ignored `animation:opacity-fade-in .5s ease both 3.2s` at 1:24207, unknown property.
+WARNING: Ignored `animation:start-list-fade-in 1s ease both 3s` at 1:24323, unknown property.
+WARNING: Ignored `animation-delay:4.5s` at 1:24442, unknown property.
+WARNING: Ignored `animation-delay:5s` at 1:24656, unknown property.
+WARNING: Ignored `transition:border .2s ease` at 1:25156, unknown property.
+WARNING: Invalid or unsupported selector 'aside+aside:hover progress::-moz-progress-bar', Unknown pseudo-element: -moz-progress-bar
+WARNING: Invalid or unsupported selector 'aside+aside:hover progress::-webkit-progress-value', Unknown pseudo-element: -webkit-progress-value
+WARNING: Ignored `transition:margin-top .25s ease` at 1:25631, unknown property.
+WARNING: Invalid or unsupported selector 'aside+aside progress::-webkit-progress-bar', Unknown pseudo-element: -webkit-progress-bar
+WARNING: Ignored `transition:background-color .25s ease` at 1:26153, unknown property.
+WARNING: Invalid or unsupported selector 'aside+aside progress::-moz-progress-bar', Unknown pseudo-element: -moz-progress-bar
+WARNING: Ignored `transition:background-color .25s ease` at 1:26282, unknown property.
+WARNING: Invalid or unsupported selector 'aside+aside progress::-webkit-progress-value', Unknown pseudo-element: -webkit-progress-value
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 831px)
+WARNING: Invalid media type " screen and (min-width: 831px)" the whole @media rule was ignored at 1:26320.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 830px)
+WARNING: Invalid media type " screen and (max-width: 830px)" the whole @media rule was ignored at 1:26535.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:31661.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:32801.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:32929.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:33088.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 581px)
+WARNING: Invalid media type " screen and (min-width: 581px)" the whole @media rule was ignored at 1:33189.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:34149.
+WARNING: Ignored `background-position-y:100%` at 1:34641, unknown property.
+WARNING: Ignored `transition:border-color .2s` at 1:34818, unknown property.
+WARNING: Ignored `vertical-align:center` at 1:34882, invalid value.
+WARNING: Expected a media type, got screen/**/and/**/(max-width: 580px)
+WARNING: Invalid media type " screen and (max-width: 580px)" the whole @media rule was ignored at 1:35241.
+WARNING: Ignored `height:100vh` at 1:35373, invalid value.
+WARNING: Ignored `transition:height 500ms 500ms` at 1:35588, unknown property.
+WARNING: Ignored `transition:opacity 500ms 500ms` at 1:35794, unknown property.
+WARNING: Ignored `animation-duration:1s` at 1:35879, unknown property.
+WARNING: Ignored `animation-fill-mode:both` at 1:35901, unknown property.
+WARNING: Ignored `animation-name:start-list-fade-in` at 1:35926, unknown property.
+WARNING: Ignored `animation-timing-function:ease` at 1:35960, unknown property.
+WARNING: Ignored `animation:typing 2000ms steps(35, end) 500ms both,cursor 2000ms step-end infinite 3000ms` at 1:36057, unknown property.
+WARNING: Expected a media type, got screen/**/and/**/(min-width: 831px)
+WARNING: Invalid media type " screen and (min-width: 831px)" the whole @media rule was ignored at 1:36146.
+
+C:\Users\echas>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
